@@ -11,3 +11,6 @@ Demo repo for sharing ideas
 ## Colab EXample
   Here is [my Notebook](https://colab.research.google.com/drive/1ExgENusUTDJdTKXiGji1IkBG3i5f_s8a?usp=sharing)
   
+### Image
+
+![image](https://user-images.githubusercontent.com/53623131/121785515-c87f4080-cb7f-11eb-8133-db0a66044979.png)
